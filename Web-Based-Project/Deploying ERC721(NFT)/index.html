@@ -10,7 +10,13 @@
     <div class="container">
         <h1>NFT Project</h1>
         <button id="connectButton">Connect to MetaMask</button>
-        <button id="mintButton">Mint NFT</button>
+        <form id="mintForm">
+            <label for="toAddress">Recipient Address:</label>
+            <input type="text" id="toAddress" required>
+            <label for="uri">URI for NFT Image:</label>
+            <input type="text" id="uri" required>
+            <button type="submit" id="mintButton">Mint NFT</button>
+        </form>
     </div>
     <div id="status"></div>
     <script src="app.js"></script>
