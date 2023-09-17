@@ -484,16 +484,20 @@ document.getElementById('connectButton').addEventListener('click', async () => {
 });
 
 // Event listener for the "Mint NFT" button
-document.getElementById('mintButton').addEventListener('click', async () => {
+document.getElementById('mintForm').addEventListener('submit', async (event) => {
+    event.preventDefault(); // Prevent the form from submitting normally
+
     try {
         const accounts = await web3.eth.getAccounts();
         const currentAccount = accounts[0];
 
-        // Call the getTokenIdCounter function from your contract to get the current tokenId
-        const tokenId = await contract.methods.getTokenIdCounter().call();
+        // Get input values from the form
+        const toAddress = document.getElementById('toAddress').value;
+        const uri = document.getElementById('uri').value;
 
-        // Mint the NFT and increment the tokenId
-        await contract.methods.safeMint(currentAccount, "1.json").send({ from: currentAccount });
+        // Call the safeMint function from your contract with the input values
+        const tokenId = await contract.methods.getTokenIdCounter().call();
+        await contract.methods.safeMint(toAddress, uri).send({ from: currentAccount });
 
         // Update the UI with a success message
         document.getElementById('status').innerHTML = `NFT Minted Successfully! Token ID: ${tokenId}`;
