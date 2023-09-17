@@ -39,6 +39,10 @@ contract Project is ERC721, ERC721URIStorage, Ownable {
         return super.tokenURI(tokenId);
     }
 
+    function getTokenIdCounter() public view returns (uint256) {
+    return _tokenIdCounter.current();
+    }
+
     function supportsInterface(bytes4 interfaceId)
         public
         view
