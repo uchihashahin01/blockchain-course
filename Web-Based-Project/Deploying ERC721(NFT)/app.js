@@ -507,3 +507,24 @@ document.getElementById('mintForm').addEventListener('submit', async (event) => 
     }
 });
 
+// Event listener for the "Get Token URI" button
+document.getElementById('getTokenURIButton').addEventListener('click', async () => {
+    try {
+        const tokenId = document.getElementById('tokenIdInput').value;
+
+        // Call the tokenURI function from your contract to get the token URI
+        const tokenURI = await contract.methods.tokenURI(tokenId).call();
+
+        if (tokenURI) {
+            // Display the token URI
+            document.getElementById('tokenURI').innerHTML = `Token URI for Token ID ${tokenId}:<br>${tokenURI}`;
+        } else {
+            document.getElementById('tokenURI').innerHTML = `Token URI not found for Token ID ${tokenId}`;
+        }
+    } catch (error) {
+        console.error(error);
+        document.getElementById('tokenURI').innerHTML = 'Error while fetching Token URI.';
+    }
+});
+
+
