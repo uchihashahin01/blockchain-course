@@ -78,3 +78,4 @@
 7. [Deploy A Smart Contract Using HDWallet Provider Vs. Truffle Dashboard](https://docs.google.com/document/d/1Bq5F5jJMfWFpdXVW0DdwZMjwwKaPw0gpp2ZUzgZfiCE/edit?usp=sharing)
 8. [Verify Contract Using Truffle](https://docs.google.com/document/d/1UC5riN2AdBEUriOU_VvL-EhRDt9yDKgluvoB3HUWzS8/edit?usp=sharing)
 9. [Node.js Install and Uninstall](https://docs.google.com/document/d/1kbpcI6lEtVYjxY25zZui1GBhjMZP90Ef7JD5lhw3hwM/edit?usp=sharing)
+10. [Lottery Smart Contract](https://docs.google.com/document/d/1rSs_-Num3vjp1n-pnke7xdPpjMI9ld2x6pWhdLwfwtI/edit?usp=sharing)
