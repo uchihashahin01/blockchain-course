@@ -53,3 +53,28 @@
 17. [Eth converter link(online website)](https://docs.google.com/document/d/1ZWfFORCyW3tkckKlAzPddhL8BA4gZftg8dvfG3BEObM/edit?usp=sharing)
 18. [Final Money Implementation](https://docs.google.com/document/d/1WlnviwGnP2Su_o9XMIodZVwjM0AP04oP_AA0dzuvgfE/edit?usp=sharing)
 19. [Question to Practice](https://docs.google.com/document/d/1hUdHean5XuWM6RK3dHWmF4of_HjfUDRV_bPqSlUH3sU/edit?usp=sharing)
+
+**Block – 05**
+1. [Understanding Web3.js](https://docs.google.com/document/d/1nY8s1wlqcnTOupk9-r1jZjMz5HVn8YIoxS3WpMQN3R0/edit?usp=sharing)
+2. [Web3.js and the ABI Array](https://docs.google.com/document/d/1_hCziodgOcGFuJPir7e5KYm6xMTBofdowp4nc_TxMCk/edit?usp=sharing)
+3. [Why Use Web3.js](https://docs.google.com/document/d/12rlM8OBBhPPzdPOxWkv26OHd3llyo289bnUedwmESv8/edit?usp=sharing)
+4. [Event as Return Variables](https://docs.google.com/document/d/1tbPSY9DIwnbywfPvS1R4He1RqVaTrmBNpA3yjh-MLYk/edit?usp=sharing)
+5. [Event as Return Variables (Theory)](https://docs.google.com/document/d/16zjCJSn8a0TwVCvSMoGVbD7Z28pLSsW1NUu1eoKo7p0/edit?usp=sharing)
+6. [Inheritance & Modifiers](https://docs.google.com/document/d/1powhxJ0pGVgGsAKt9T-GVLZwEQpqLuS7dqTO8LAFZs4/edit?usp=sharing)
+7. [Reserved Keywords](https://docs.google.com/document/d/1f772863OpcI1KtC2XVPFRqbI36VO8A9eGjl9z656K4k/edit?usp=sharing)
+8. [Self Destruct](https://docs.google.com/document/d/10h5Q_HxsjWOLSD0UbF9Vxhx3xQ4GdCloOZBRD6W7Fmo/edit?usp=sharing)
+9. [Verified Contracts](https://docs.google.com/document/d/1iHEJa2JxUm_YUfnmfc5mwvgZGpwZJmMYfg7ai8CLGc0/edit?usp=sharing)
+10. [Adding Mumbai Faucet to Metamask](https://docs.google.com/document/d/1Og7h0-xvDR4q2OMd-7wy97z7GkM9yVzq-uo9Yy1b6-w/edit?usp=sharing)
+11. [How to Verify on Etherscan](https://docs.google.com/document/d/1CiQw_IL9aArxEWz3CRZlvN2YdJkRlIh7XDytRju-tJU/edit?usp=sharing)
+12. [ERC20 Token](https://docs.google.com/document/d/19lf-fAbsAZ-5GvyPqmQVxaymAN9XOGommKMteOp3lls/edit?usp=sharing)
+
+**Block – 06**
+1. [ERC721 (NFT)](https://docs.google.com/document/d/1x88-YyxybLV5-d3NZj0u1su-sTYx3NBQsu3tkOk_Ax0/edit?usp=sharing)
+2. [Verified NFT Contracts](https://docs.google.com/document/d/1ZilcTS3tsgaR_PJ4XDqaU0cjQikNqG0S5FYoS18jmmU/edit?usp=sharing)
+3. [Verify NFT Contract in Etherscan](https://docs.google.com/document/d/1DkG5U-B_Wa4K9me9AHPHd4360yTVlWe7T9xuPZ0UlDg/edit?usp=sharing)
+4. [Struct NFT File with Truffle in WSL](https://docs.google.com/document/d/1YzTJ_leXj4HLcIb8YiniQ7FVayRBa6g7gAZWGYn2yI4/edit?usp=sharing)
+5. [Migrate (Deploy) Using Truffle in WSL](https://docs.google.com/document/d/1ktjcvASCawjgyzg8PcyBfNDlT-Vj5ukscwNHfiJiGtw/edit?usp=sharing)
+6. [Interact with the Smart Contract with Truffle in WSL](https://docs.google.com/document/d/1PqALzEYTNF0zlrVUfhosKfb0ONyWNpM6cVwxs26OJBk/edit?usp=sharing)
+7. [Deploy A Smart Contract Using HDWallet Provider Vs. Truffle Dashboard](https://docs.google.com/document/d/1Bq5F5jJMfWFpdXVW0DdwZMjwwKaPw0gpp2ZUzgZfiCE/edit?usp=sharing)
+8. [Verify Contract Using Truffle](https://docs.google.com/document/d/1UC5riN2AdBEUriOU_VvL-EhRDt9yDKgluvoB3HUWzS8/edit?usp=sharing)
+9. [Node.js Install and Uninstall](https://docs.google.com/document/d/1kbpcI6lEtVYjxY25zZui1GBhjMZP90Ef7JD5lhw3hwM/edit?usp=sharing)
