@@ -5,8 +5,6 @@ contract EventExample {
 
     mapping (address => uint) public tokenBalance;
 
-    event tokenSend(address _from, address _to, uint _amount);
-
     constructor() {
         tokenBalance[msg.sender] = 100;
     }
