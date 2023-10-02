@@ -44,7 +44,7 @@
 10. [Exception Handling (Require)](https://docs.google.com/document/d/1oYz2EAJ5QONH9W1zvYQH8Y3sOv7Ub2MpOn8zSPVYl4I/edit?usp=sharing)
 11. [If-else, error message using emit](https://docs.google.com/document/d/1iyrTa6owEq7ZyWSWpx8SKAcoyf8vvvtw2UtIPuKby3U/edit?usp=sharing)
 12. [Exception Handling (Assert)](https://docs.google.com/document/d/1EONKtsr5mgt6jmgHr6YjNnGTmY4Wxz7b9BVmdLlG8Wk/edit?usp=sharing)
-13_1. [Exception Handling (Try-Catch)](https://docs.google.com/document/d/1WJUHqEnxZQqqfNSEtrkZghxJrh4h2htVtcxbHaLCp7o/edit?usp=sharing)
+13. [Exception Handling (Try-Catch)](https://docs.google.com/document/d/1WJUHqEnxZQqqfNSEtrkZghxJrh4h2htVtcxbHaLCp7o/edit?usp=sharing)
 13. [Exception Handling (Try-Catch-2)](https://docs.google.com/document/d/14H9ZUnGeYUEfssBN_Jt155mmk8Q1DJDDw-hImgT9h7I/edit?usp=sharing)
 13. [Exception Handling (Try-Catch-3)](https://docs.google.com/document/d/1am5ZDNoXUdyBTMx5XmWVOtybX89cGXoN8xwDnEf47bw/edit?usp=sharing)
 14. [Exception Handling (Revert and Require)](https://docs.google.com/document/d/1APpE0qCoTb_c8MPcSkDt4GJ29uiWQxVYvDZZvJsKt0A/edit?usp=sharing)
